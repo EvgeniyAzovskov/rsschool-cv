@@ -1,7 +1,6 @@
 # Evgeniy Azovskov
 ![My photo](/assets/myphoto.png)
 ## Contacts
-* Phone 89021821875
 * Togliatti, Russia
 * Email: Azovskov.1993@mail.ru
 * Github: EvgeniyAzovskov
@@ -17,10 +16,12 @@
 * `function multiply(a, b){
 return a * b;
 };`
-## EXPERIENCE
-* My path has just begun with taking courses.
+## PROJECTS
+* My first projects [https://evgeniyazovskov.github.io/rsschool-cv/](адрес "CV")
 ## Education
 * Togliatti State University-Power engineering
+## COURSES
+* My first courses [https://rs.school/js/](адрес "«JavaScript/Front-end. Stage 0»")
 ## Languages
 * Russian
 * English-A1 School program
