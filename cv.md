@@ -1,7 +1,6 @@
 # Evgeniy Azovskov
 ![My photo](/assets/myphoto.png)
 ## Contacts
-* Phone 89021821875
 * Togliatti, Russia
 * Email: Azovskov.1993@mail.ru
 * Github: EvgeniyAzovskov
@@ -14,13 +13,17 @@
 * Figma (for web development)
 * Version control: Git (remote service GitHub).
 ## Code Examples
-* `function multiply(a, b){
+ ```
+ function multiply(a, b){
 return a * b;
-};`
-## EXPERIENCE
-* My path has just begun with taking courses.
+};
+```
+## Projects
+* [My first projects](https://evgeniyazovskov.github.io/rsschool-cv/ "My first projects")
 ## Education
 * Togliatti State University-Power engineering
+## Courses
+*  [«JavaScript/Front-end. Stage 0](https://rs.school/js/ "«»")
 ## Languages
-* Russian
-* English-A1 School program
+* Russian-С2
+* English-B1
