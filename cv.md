@@ -13,15 +13,17 @@
 * Figma (for web development)
 * Version control: Git (remote service GitHub).
 ## Code Examples
-* `function multiply(a, b){
+ ```
+ function multiply(a, b){
 return a * b;
-};`
-## PROJECTS
-* My first projects [https://evgeniyazovskov.github.io/rsschool-cv/](адрес "CV")
+};
+```
+## Projects
+* [My first projects](https://evgeniyazovskov.github.io/rsschool-cv/ "My first projects")
 ## Education
 * Togliatti State University-Power engineering
-## COURSES
-* My first courses [https://rs.school/js/](адрес "«JavaScript/Front-end. Stage 0»")
+## Courses
+*  [«JavaScript/Front-end. Stage 0](https://rs.school/js/ "«»")
 ## Languages
 * Russian
 * English-A1 School program
