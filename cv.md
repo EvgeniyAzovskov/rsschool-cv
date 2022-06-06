@@ -25,5 +25,5 @@ return a * b;
 ## Courses
 *  [«JavaScript/Front-end. Stage 0](https://rs.school/js/ "«»")
 ## Languages
-* Russian
-* English-A1 School program
+* Russian-С2
+* English-B1
