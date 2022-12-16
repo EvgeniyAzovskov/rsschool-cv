@@ -5,23 +5,14 @@
 * {
 	box-sizing: border-box;
  }
-.footer {
-border: 1px solid red
-}
-.header {
-	border: 1px solid red
-	}
-	.main {
-		border: 1px solid red
-		}
 
+	
 		body {
 			display: flex;
 			flex-direction: column;
 			justify-content: space-between;
 			min-height: 100vh
-			margin: 0;
-		   padding: 0;
+
       }
 
 		.container {
@@ -116,4 +107,60 @@ border: 1px solid red
 			text-align: center;
 			text-transform: uppercase;
 	  }
-		 
+	  .section-profile {
+		flex-direction: column;
+		align-items: center;
+  }
+  @media (max-width: 768px)
+
+.section {
+    width: 100%;
+}
+.section-profile {
+	display: flex;
+	justify-content: space-around;
+	width: 100%;
+	padding: 50px 30px 35px;
+	border-bottom: 15px solid #d7d1c9;
+	}
+	.header {
+		background-color: #829985;
+	}
+	.footer{
+		background-color: #5d7260;
+	}
+	.shadow {
+		box-shadow: 0px 0px 15px 10px #000;
+	}
+	.footer-container {
+		display: flex;
+		justify-content: space-between;
+		align-items: center;
+		margin: 0 auto;
+		color: rgb(17, 17, 17);
+  }
+  .rss {
+	width: 150px;
+	height: 150px;
+	background-image: url(./assets/svg/rs.svg);
+	background-size: contain;
+	background-repeat: no-repeat;
+  }
+
+
+.nav-link {
+	text-decoration: none;
+	color: #090a0a;
+	transition: color 1.0s;
+}
+.title {
+	text-decoration: none;
+	color: #090a0a;
+	transition: color 1.0s;
+}
+.link-git{
+	text-decoration: none;
+	color: #000;
+	transition: color 0.5s;
+
+}
