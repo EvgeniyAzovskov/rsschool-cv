@@ -146,8 +146,6 @@
 	background-size: contain;
 	background-repeat: no-repeat;
   }
-
-
 .nav-link {
 	text-decoration: none;
 	color: #090a0a;
@@ -162,5 +160,4 @@
 	text-decoration: none;
 	color: #000;
 	transition: color 0.5s;
-
 }
