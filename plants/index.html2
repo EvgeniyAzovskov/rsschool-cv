@@ -1,0 +1,95 @@
+ <main class="main">
+		<section class="oxygen">
+			<div class="wrapper-full">
+				<div class="oxygens__oxygen oxygen">
+					<div class="oxygen__pic">
+						<img src="./img/leafs.jpg" alt="leafs" class="oxygen__thumb">
+					</div>
+					<div class="intro">
+						<h1 class="inter__title">
+							We grow plants and give you oxygen
+						</h1>
+						<p class="oxygen__desk">
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+						</p>
+						<a href="#!" class="oxygen__more">LEARN MORE</a>
+					</div>
+				</div>
+			</div>
+		</section>
+		</main>*/
+
+
+		}
+.oxygen{
+	margin-bottom: 139px;
+}
+.oxygens__oxygen{
+	display: grid;
+	grid-template-columns: repeat(2,1fr);
+	grid-gap:0 225px
+	align-items:center;
+}
+.oxygen{
+	min-height: 100vh;
+padding-top: 50px;
+}
+.oxygen__pic{
+background-color: #EDF2EC;
+
+}
+.inter__title{
+font-size: 45px;
+font-weight: 700;
+line-height: 50px;
+color:#717171;
+margin-bottom: 42px;
+
+}
+.intro{
+	height: 100vh;
+	background: #EDF2EC no-repeat;
+	background-size: cover;
+	padding-top: 232px;
+	margin-bottom: 161px;
+}
+.inter-titel{
+max-width:549px;
+font-size: 45px;
+font-weight: 700;
+line-height: 50px;
+color: #717171;
+margin-bottom: 42px;
+}
+saaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
+
+				<div class="oxygens__oxygen">
+					<div class="oxygen__pic">
+						<img src="./img/leafs.jpg" alt="leafs" class="oxygen__thumb">
+					</div>
+					<div class="oxygen__info">
+						<h1 class="inter__titel">
+							We grow <span class="green">plants</span> and give you oxygen
+						</h1>
+						<p class="inter__subtitle">
+							Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s.
+						</p>
+						<a href="#!" class="oxygen__more">LEARN MORE</a>
+					</div>
+				</div>
+			
+
+
+	<div class="oxygens__oxygen2 oxygen">
+		<div class="oxygen__info">
+			<h3 class="inter__titel2">
+				We are <spun class="brown">professional experienced</spun> gardeners 
+			</h3>
+			<p class="inter__subtitle">
+				Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. 
+			</p>
+		</div>
+		<div class="oxygen__pic2">
+			<img src="./img/houseplant 1.jpg" alt="houseplant" class="houseplant__thumb">
+		</div>
+		</div>
